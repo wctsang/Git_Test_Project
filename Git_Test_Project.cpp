@@ -6,6 +6,8 @@
 int main()
 {
     std::cout << "Hello VisualStudio Git!\n";
+
+    std::cout << "PullRequest branch changed!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
